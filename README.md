@@ -1,55 +1,130 @@
-# 👋 Hi, I’m Owens Omwanda
+<!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+am+Owens+Omwanda;Majoring+in;Telecommunications+%26+Information+Engineering" />
+</p>
 
-🎓 **Telecommunications & Information Engineering Student | Aspiring Web Engineer**  
-💻 Passionate about building **scalable, secure, and production-ready web systems**.  
-🌐 I bridge **frontend, backend, and DevOps**, creating software that works reliably in the real world.
-
----
-
-## 🧭 Areas of Expertise
-
-- 🎨 **Frontend**: Responsive UI, Web Accessibility, Vue.js, Bootstrap  
-- 🧰 **Backend**: Python, Django, RESTful APIs, PostgreSQL  
-- ⚙️ **DevOps**: GitHub Actions, Docker, Deployment Workflows  
-- 🔒 **Security & Networking**: Web Security Fundamentals, Client–Server Architecture  
-- 📐 **Architecture & Design**: Clean Code, Scalable Patterns, MVC / MTV
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
+</p>
+<p align="center">
+  <b>Frontend • Backend • DevOps • Systems Engineering</b>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧬 About Me
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-Responsive Design | Accessibility | DOM Manipulation | AJAX | API Integration | jQuery | Bootstrap
+🎓 **Telecommunications & Information Engineering Student**  
+💻 **Aspiring Web Engineer with a systems-first mindset**  
+🌐 I design and build **end-to-end web systems** where frontend, backend, and infrastructure work together reliably.
 
-### 🧠 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-OOP | MVC / MTV | CRUD | Authentication & Sessions | Form Handling | QuerySet API
+My focus is on software that:
+- scales predictably  
+- remains secure under pressure  
+- is maintainable long after deployment  
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-SQL | Relational Design | Table Relationships | Migrations
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-GitHub Actions | Linux CLI | Shell Scripting | Docker Compose | Heroku Deployment | WSL
-
-### 🔐 Web & Systems Fundamentals
-HTTP / HTTPS | Client–Server Architecture | Web Security Fundamentals
+I care less about quick demos and more about **engineering decisions that hold up over time**.
 
 ---
 
-## 🤝 Let’s Connect
+## 🧭 Engineering Domains
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Owens%20Omwanda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owens-omwanda-103917216)  
-[![GitHub](https://img.shields.io/badge/GitHub-Owens345-181717?style=flat&logo=github)](https://github.com/Owens345)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Engineering
+- Responsive and accessible user interfaces  
+- Vue.js and Bootstrap  
+- API-driven UI design  
+- Performance-aware client logic  
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Backend Engineering
+- Python and Django  
+- RESTful API design  
+- Authentication and session management  
+- PostgreSQL-backed applications  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Infrastructure
+- Docker and Docker Compose  
+- GitHub Actions (CI/CD)  
+- Linux-based environments  
+- Deployment and automation workflows  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Networking & Security
+- HTTP / HTTPS fundamentals  
+- Client–server architecture  
+- Web security principles  
+- Failure-aware system design  
+
+</td>
+</tr>
+</table>
 
 ---
 
-> 🌟 I aim to **build software that is reliable, secure, and scalable**, bridging real-world engineering with user-focused design.
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,django,postgres,docker,linux,git,githubactions&perline=6" />
+</p>
+
+<p align="center">
+  <sub>Tools evolve. Engineering fundamentals endure.</sub>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Owens345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owens345&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Owens345&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Engineering Philosophy
+
+> Software engineering is the discipline of making responsible trade-offs.
+ 
+---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Owens345">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>Reliable systems are designed deliberately — not discovered by accident.</i>
+</p>
+
 
