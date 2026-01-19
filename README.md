@@ -15,38 +15,42 @@
 ## 🧬 About Me
 
 🎓 **Telecommunications & Information Engineering Student**  
-💻 **Aspiring Web Engineer with a systems-first mindset**  
-🌐 I design and build **end-to-end web systems** where frontend, backend, and infrastructure work together reliably.
+💻 **Aspiring Web Engineer | Systems-first mindset**  
+🌐 I design **end-to-end web systems** where frontend, backend, and infrastructure work together seamlessly.  
 
-My focus is on software that:
-- scales predictably  
-- remains secure under pressure  
-- is maintainable long after deployment  
+My focus is on building software that:  
+- scales predictably under load  
+- stays secure under pressure  
+- remains maintainable long-term  
 
-I care less about quick demos and more about **engineering decisions that hold up over time**.
+> “Reliable systems aren’t accidents; they’re engineered deliberately.”
 
 ---
 
-## 🧭 Engineering Domains
+## 🧭 My Domains
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0ea5e9&height=40&text=Engineering+Focus&fontSize=20"/>
+</p>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Engineering
-- Responsive and accessible user interfaces  
-- Vue.js and Bootstrap  
-- API-driven UI design  
+### 🎨 Frontend
+- Responsive, accessible UIs  
+- Vue.js, Bootstrap  
+- API-driven architecture  
 - Performance-aware client logic  
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Backend Engineering
-- Python and Django  
+### 🧰 Backend
+- Python & Django  
 - RESTful API design  
-- Authentication and session management  
-- PostgreSQL-backed applications  
+- Authentication & session management  
+- PostgreSQL database design  
 
 </td>
 </tr>
@@ -54,18 +58,18 @@ I care less about quick demos and more about **engineering decisions that hold u
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Infrastructure
-- Docker and Docker Compose  
+### ⚙️ DevOps
+- Docker & Docker Compose  
 - GitHub Actions (CI/CD)  
-- Linux-based environments  
-- Deployment and automation workflows  
+- Linux-based deployment pipelines  
+- Automation & monitoring workflows  
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Networking & Security
-- HTTP / HTTPS fundamentals  
-- Client–server architecture  
+### 🔐 Security & Networking
+- HTTP/HTTPS fundamentals  
+- Client-server architecture  
 - Web security principles  
 - Failure-aware system design  
 
@@ -75,14 +79,14 @@ I care less about quick demos and more about **engineering decisions that hold u
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,django,postgres,docker,linux,git,githubactions&perline=6" />
 </p>
 
 <p align="center">
-  <sub>Tools evolve. Engineering fundamentals endure.</sub>
+  <sub>Tools evolve; engineering fundamentals endure.</sub>
 </p>
 
 ---
@@ -90,8 +94,8 @@ I care less about quick demos and more about **engineering decisions that hold u
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Owens345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owens345&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Owens345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owens345&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -100,10 +104,15 @@ I care less about quick demos and more about **engineering decisions that hold u
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 Philosophy
 
-> Software engineering is the discipline of making responsible trade-offs.
- 
+> Software engineering is about making deliberate trade-offs, not chasing features.
+
+- Architecture defines future scalability  
+- DevOps is integral, not optional  
+- Security is assumed missing until verified  
+- Maintainability is more valuable than clever hacks  
+
 ---
 
 ## 🌍 Let’s Connect
@@ -120,11 +129,12 @@ I care less about quick demos and more about **engineering decisions that hold u
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100"/>
 </p>
 
 <p align="center">
-  <i>Reliable systems are designed deliberately — not discovered by accident.</i>
+  <i>Reliable software isn’t discovered. It’s engineered.</i>
 </p>
+
 
 
