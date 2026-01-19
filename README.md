@@ -66,7 +66,8 @@ SQL | Relational Design | Table Relationships | Migrations
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-GitHub Actions | Linux CLI | Shell Scripting | Docker Compose | Heroku Deployment | WSL
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=FFFFFF)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat&logo=windows&logoColor=FFFFFF)
 
 ### 🔐 Web & Systems Fundamentals
 HTTP / HTTPS | Client–Server Architecture | Web Security Fundamentals
