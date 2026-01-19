@@ -86,12 +86,6 @@ HTTP / HTTPS | Client–Server Architecture | Web Security Fundamentals
 ## 🧠 Philosophy
 
 > Software engineering is about making deliberate trade-offs, not chasing features.
-
-- Architecture defines future scalability  
-- DevOps is integral, not optional  
-- Security is assumed missing until verified  
-- Maintainability is more valuable than clever hacks  
-
 ---
 
 ## 🌍 Let’s Connect
