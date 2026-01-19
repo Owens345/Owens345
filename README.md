@@ -62,7 +62,6 @@ My focus is on building software that:
 - Docker & Docker Compose  
 - GitHub Actions (CI/CD)  
 - Linux-based deployment pipelines  
-- Automation & monitoring workflows  
 
 </td>
 <td width="50%" valign="top">
