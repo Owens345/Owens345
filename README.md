@@ -11,8 +11,9 @@
 </p>
 
 ---
-
-## 🧬 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-38BDF8?style=for-the-badge&logoColor=white" alt="About Me" />
+</p>
 
 🎓 **Telecommunications & Information Engineering Student**  
 💻 **Aspiring Web Engineer | Systems-first mindset**  
@@ -33,60 +34,39 @@ My focus is on building software that:
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0ea5e9&height=40&text=Engineering+Focus&fontSize=20"/>
 </p>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-- Responsive, accessible UIs  
-- Vue.js, Bootstrap  
-- API-driven architecture  
-- Performance-aware client logic  
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Backend
-- Python & Django  
-- RESTful API design  
-- Authentication & session management  
-- PostgreSQL database design  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ DevOps
-- Docker & Docker Compose  
-- GitHub Actions (CI/CD)  
-- Linux-based deployment pipelines  
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security & Networking
-- HTTP/HTTPS fundamentals  
-- Client-server architecture  
-- Web security principles  
-- Failure-aware system design  
-
-</td>
-</tr>
-</table>
+- 🎨 **Frontend**: Responsive UI, Web Accessibility, Vue.js, Bootstrap  
+- 🧰 **Backend**: Python, Django, RESTful APIs, PostgreSQL  
+- ⚙️ **DevOps**: GitHub Actions, Docker, Deployment Workflows  
+- 🔒 **Security & Networking**: Web Security Fundamentals, Client–Server Architecture  
+- 📐 **Architecture & Design**: Clean Code, Scalable Patterns, MVC / MTV
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,django,postgres,docker,linux,git,githubactions&perline=6" />
-</p>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+Responsive Design | Accessibility | DOM Manipulation | AJAX | API Integration | jQuery | Bootstrap
 
-<p align="center">
-  <sub>Tools evolve; engineering fundamentals endure.</sub>
-</p>
+### 🧠 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+OOP | MVC / MTV | CRUD | Authentication & Sessions | Form Handling | QuerySet API
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+SQL | Relational Design | Table Relationships | Migrations
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+GitHub Actions | Linux CLI | Shell Scripting | Docker Compose | Heroku Deployment | WSL
+
+### 🔐 Web & Systems Fundamentals
+HTTP / HTTPS | Client–Server Architecture | Web Security Fundamentals
 
 ---
 
