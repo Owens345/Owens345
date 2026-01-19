@@ -91,7 +91,7 @@ HTTP / HTTPS | Client–Server Architecture | Web Security Fundamentals
 ## 🌍 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/owens-omwanda-103917216">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Owens345">
