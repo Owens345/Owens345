@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=HI;I+am+Owens+Omwanda" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Hello;I+am+Owens+Omwanda" />
 </p>
 
 <p align="center">
