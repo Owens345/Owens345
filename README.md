@@ -35,7 +35,7 @@ My focus is on building software that:
 </p>
 
 - 🎨 **Frontend**: Responsive UI, Web Accessibility, Vue.js, Bootstrap  
-- 🧰 **Backend**: Python, Django, RESTful APIs, PostgreSQL  
+- 🧰 **Backend**: Python, Ruby, Django, RESTful APIs, PostgreSQL  
 - ⚙️ **DevOps**: GitHub Actions, Docker, Deployment Workflows  
 - 🔒 **Security & Networking**: Web Security Fundamentals, Client–Server Architecture  
 - 📐 **Architecture & Design**: Clean Code, Scalable Patterns, MVC / MTV
@@ -54,6 +54,7 @@ Responsive Design | Accessibility | DOM Manipulation | AJAX | API Integration | 
 ### 🧠 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF)
 OOP | MVC / MTV | CRUD | Authentication & Sessions | Form Handling | QuerySet API
 
 ### 🗄️ Databases
