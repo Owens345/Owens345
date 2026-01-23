@@ -49,17 +49,17 @@ My focus is on building software that:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-Responsive Design | Accessibility | DOM Manipulation | AJAX | API Integration | jQuery | Bootstrap
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF)
+![AJAX](https://img.shields.io/badge/AJAX-00758F?style=flat&logo=javascript&logoColor=FFFFFF)
 
 ### 🧠 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF)
-OOP | MVC / MTV | CRUD | Authentication & Sessions | Form Handling | QuerySet API
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-SQL | Relational Design | Table Relationships | Migrations
 
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
